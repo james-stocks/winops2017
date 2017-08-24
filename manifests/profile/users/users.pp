@@ -1,4 +1,4 @@
-class users::users()
+class profile::users::users()
 {
  user { 'jim':
   # on Windows can use username, domain\user and SID
